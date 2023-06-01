@@ -1,0 +1,1 @@
+#Sparkdag.py sets up an Airflow DAG for scheduling and executing a Spark job using the SparkSubmitOperator with a specific schedule interval. The DAG includes a task that submits a Spark application script to a Spark cluster
